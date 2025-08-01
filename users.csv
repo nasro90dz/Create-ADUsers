@@ -1,0 +1,3 @@
+FirstName,LastName,Username,Department,OU,Password
+John,Doe,jdoe,IT,"OU=IT,DC=yourdomain,DC=local",P@ssword123!
+Jane,Smith,jsmith,HR,"OU=HR,DC=yourdomain,DC=local",P@ssword456!
